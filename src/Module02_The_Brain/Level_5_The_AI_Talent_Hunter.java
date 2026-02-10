@@ -20,7 +20,7 @@ Use a Ternary Operator to store the result ("Hired" or "Not Hired") in a String 
 Print the decision.
  */
 
-package Module01_TheEngine;
+package Module02_The_Brain;
 
 import java.util.Scanner;
 

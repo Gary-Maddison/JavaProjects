@@ -25,7 +25,7 @@ The Ternary Finish: Create a boolean variable isRich that is true if their salar
 Operator to print either "Status: High Value Specialist" or "Status: Emerging Talent" based on that boolean.
  */
 
-package Module01_TheEngine;
+package Module02_The_Brain;
 
 import java.util.Scanner;
 

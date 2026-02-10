@@ -15,7 +15,7 @@ Java25
 Access Granted! 🔓
  */
 
-package Module01_TheEngine;
+package Module02_The_Brain;
 
 import java.util.Scanner;
 
@@ -33,7 +33,7 @@ public class Level_4_The_Security_Gate {
 
         if (userSecurityLevel >= securityLevel) {
             System.out.println("Access Granted");
-            
+
         } else {
             System.out.println("Enter password: ");
             String userPassword = userInput.nextLine();
