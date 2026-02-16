@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="02906e6d-701e-47af-959d-71bba69d06c2" name="Changes" comment="Level 4 - The Security Gate" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Gary-Maddison&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Gary-Maddison/JavaProjects",
+    "accountId": "86090758-8f09-4fdc-80ee-c2989656e5ac"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="Security Analysis" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="39CbvNSLJoxXhQNU9vunXTD1pMB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BasicSyntax.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Level_1_The_Greeting_Bot.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Level_2_The_Interactive_Age_Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Level_3_The_Shopping_Receipt.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Level_4_The_Security_Gate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Level_5_The_AI_Talent_Hunter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Level_6_The_Career_Consultant.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/gfmhy/Desktop/Learning/JavaProjects&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Level_4_The_Security_Gate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Module02_The_Brain.Level_4_The_Security_Gate" />
+      <module name="JavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Module02_The_Brain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Level_4_The_Security_Gate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02906e6d-701e-47af-959d-71bba69d06c2" name="Changes" comment="" />
+      <created>1770203231503</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770203231503</updated>
+      <workItem from="1770203233111" duration="401000" />
+      <workItem from="1770203648008" duration="61000" />
+      <workItem from="1770204327546" duration="38000" />
+      <workItem from="1770204370153" duration="648000" />
+      <workItem from="1770205258692" duration="486000" />
+      <workItem from="1770205761318" duration="63000" />
+      <workItem from="1770205881778" duration="467000" />
+      <workItem from="1770206364768" duration="62000" />
+      <workItem from="1770206448762" duration="73000" />
+      <workItem from="1770206532847" duration="50000" />
+      <workItem from="1770206592915" duration="320000" />
+      <workItem from="1770206961435" duration="789000" />
+      <workItem from="1770207775586" duration="299000" />
+      <workItem from="1770208087803" duration="1540000" />
+      <workItem from="1770210319245" duration="74000" />
+      <workItem from="1770210606120" duration="326000" />
+      <workItem from="1770215797404" duration="3942000" />
+      <workItem from="1770300855124" duration="4000" />
+      <workItem from="1770372536580" duration="9539000" />
+      <workItem from="1770463835189" duration="864000" />
+      <workItem from="1770465393661" duration="605000" />
+      <workItem from="1770637598176" duration="8000" />
+      <workItem from="1770642492321" duration="263000" />
+      <workItem from="1770642937749" duration="2262000" />
+      <workItem from="1770655294455" duration="1948000" />
+      <workItem from="1770657271580" duration="111000" />
+      <workItem from="1770657393704" duration="151000" />
+      <workItem from="1770737422528" duration="940000" />
+      <workItem from="1771253131343" duration="158000" />
+      <workItem from="1771253302296" duration="387000" />
+    </task>
+    <task id="LOCAL-00001" summary="message sent">
+      <option name="closed" value="true" />
+      <created>1770203367847</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1770203367847</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Success: Fixed SDK configuration and ran first project.">
+      <option name="closed" value="true" />
+      <created>1770203462188</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1770203462188</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Success: Fixed SDK configuration and ran first project.">
+      <option name="closed" value="true" />
+      <created>1770209678511</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1770209678511</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Level 1 - The Greeting Bot">
+      <option name="closed" value="true" />
+      <created>1770216402326</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1770216402326</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Level 2 - The Interactive Age Calculator">
+      <option name="closed" value="true" />
+      <created>1770218092323</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1770218092323</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Level 3 - The Shopping Receipt">
+      <option name="closed" value="true" />
+      <created>1770219478847</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1770219478847</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Level 5 - The Career Consultant">
+      <option name="closed" value="true" />
+      <created>1770656764304</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1770656764304</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Level 5 - The Career Consultant">
+      <option name="closed" value="true" />
+      <created>1770737763407</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1770737763407</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Level 4 - The Security Gate">
+      <option name="closed" value="true" />
+      <created>1771253688251</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1771253688251</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="message sent" />
+    <MESSAGE value="Success: Fixed SDK configuration and ran first project." />
+    <MESSAGE value="Level 1 - The Greeting Bot" />
+    <MESSAGE value="Level 2 - The Interactive Age Calculator" />
+    <MESSAGE value="Level 3 - The Shopping Receipt" />
+    <MESSAGE value="Level 5 - The Career Consultant" />
+    <MESSAGE value="Level 4 - The Security Gate" />
+    <option name="LAST_COMMIT_MESSAGE" value="Level 4 - The Security Gate" />
+  </component>
+</project>
