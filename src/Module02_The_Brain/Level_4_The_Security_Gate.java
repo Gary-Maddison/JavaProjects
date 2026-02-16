@@ -39,9 +39,9 @@ public class Level_4_The_Security_Gate {
             String userPassword = userInput.nextLine();
 
             if (userPassword.equals(secretPassword)) {
-                System.out.println("Access Granted!");
+                System.out.println("Access Granted!!!");
             } else {
-                System.out.println("Access Denied!");
+                System.out.println("Access Denied!!");
             }
         }
     }
